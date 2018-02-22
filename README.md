@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
+## Tutorial link
+This rpoject was created followin the tutorial in this link https://appdividend.com/2018/01/31/angular-ngrx-store-tutorial-example-scratch/ , and i added the "Person" model and operations.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
